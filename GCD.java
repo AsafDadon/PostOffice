@@ -38,6 +38,6 @@ public class GCD {
 		System.out.println(gcd2(1071, 462));
 		System.out.println(gcd1(42,36));
 		System.out.println(gcd2(42,36));
-
+		System.out.println(gcd2(67,36));
 	}
 }
